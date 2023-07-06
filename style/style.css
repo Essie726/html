@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap");
+h1 {
+  color: cadetblue;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+table,
+tr,
+th,
+td {
+  border: 1px solid rgb(184, 92, 207);
+  border-spacing: 0;
+}
+
+th {
+  color: black;
+  background-color: blanchedalmond;
+}
+
+div.container {
+  display: flex;
+  justify-content: center;
+}
+
+div.c2 {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
