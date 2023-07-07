@@ -22,7 +22,42 @@ div.container {
   justify-content: center;
 }
 
-div.c2 {
+div.box1 {
   display: flex;
   justify-content: center;
+}
+
+div.box2 {
+  display: flex;
+  justify-content: center;
+}
+
+div.box3 {
+  display: flex;
+  justify-content: center;
+}
+
+div.box1 {
+  background-color: rgb(195, 221, 238);
+}
+
+div.box2 {
+  background-color: rgb(240, 207, 238);
+}
+
+div.box3 {
+  background-color: rgb(207, 240, 229);
+}
+
+div {
+  width: 80%;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+div.container {
+  height: 20%;
 }/*# sourceMappingURL=style.css.map */
